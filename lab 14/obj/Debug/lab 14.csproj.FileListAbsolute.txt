@@ -1,0 +1,10 @@
+D:\ИПМКН\Семестр 6\Имитационное моделирование\lab 14\lab 14\obj\Debug\lab 14.csproj.AssemblyReference.cache
+D:\ИПМКН\Семестр 6\Имитационное моделирование\lab 14\lab 14\obj\Debug\lab_14.Form1.resources
+D:\ИПМКН\Семестр 6\Имитационное моделирование\lab 14\lab 14\obj\Debug\lab_14.Properties.Resources.resources
+D:\ИПМКН\Семестр 6\Имитационное моделирование\lab 14\lab 14\obj\Debug\lab 14.csproj.GenerateResource.cache
+D:\ИПМКН\Семестр 6\Имитационное моделирование\lab 14\lab 14\obj\Debug\lab 14.csproj.CoreCompileInputs.cache
+D:\ИПМКН\Семестр 6\Имитационное моделирование\lab 14\lab 14\bin\Debug\lab 14.exe.config
+D:\ИПМКН\Семестр 6\Имитационное моделирование\lab 14\lab 14\bin\Debug\lab 14.exe
+D:\ИПМКН\Семестр 6\Имитационное моделирование\lab 14\lab 14\bin\Debug\lab 14.pdb
+D:\ИПМКН\Семестр 6\Имитационное моделирование\lab 14\lab 14\obj\Debug\lab 14.exe
+D:\ИПМКН\Семестр 6\Имитационное моделирование\lab 14\lab 14\obj\Debug\lab 14.pdb
